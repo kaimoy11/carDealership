@@ -1,6 +1,8 @@
 # carDealership
 SQL database for tracking car transactions and service maintenances 
 
+USES ORACLE SQL script
+
 In this project, we were asked to design and develop information systems for SLO Vintage Auto. 
 To lead the project and deal with any uncertainties as they arise. 
 
